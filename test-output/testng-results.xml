@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="1" duration-ms="20" started-at="2018-03-03T17:29:21Z" finished-at="2018-03-03T17:29:21Z">
+  <suite name="1" duration-ms="20" started-at="2018-03-03T18:15:33Z" finished-at="2018-03-03T18:15:33Z">
     <groups>
     </groups>
-    <test name="Demo" duration-ms="20" started-at="2018-03-03T17:29:21Z" finished-at="2018-03-03T17:29:21Z">
+    <test name="Demo" duration-ms="20" started-at="2018-03-03T18:15:33Z" finished-at="2018-03-03T18:15:33Z">
       <class name="com.well.SeleniumFramework.UserdefineTests.UserDefinedTest">
-        <test-method status="PASS" signature="first()[pri:0, instance:com.well.SeleniumFramework.UserdefineTests.UserDefinedTest@2f112965]" name="first" duration-ms="3" started-at="2018-03-03T12:29:21Z" finished-at="2018-03-03T12:29:21Z">
+        <test-method status="PASS" signature="first()[pri:0, instance:com.well.SeleniumFramework.UserdefineTests.UserDefinedTest@2f112965]" name="first" duration-ms="4" started-at="2018-03-03T13:15:33Z" finished-at="2018-03-03T13:15:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- first -->
